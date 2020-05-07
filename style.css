@@ -1,0 +1,40 @@
+em {
+background-color:#ccc;
+position: relative;
+}
+
+nav {
+width: 100%
+color: (219,81,73);
+Positioning: fixed;
+}
+
+div {
+width: 200px;
+height: 200px;
+}
+
+.red {
+background-color: red;
+}
+
+.blue {
+background-color: blue;
+}
+
+.yellow {
+background-color: yellow;
+}
+
+.green {
+background-color: green;
+}
+
+.article {
+border: 2px;
+color: gray;
+}
+
+.relative em:hover {
+replace: z-index;
+}
